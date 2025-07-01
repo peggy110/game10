@@ -2,6 +2,9 @@
 
 這是一個使用 Vite + JavaScript 製作的 HTML5 Canvas 射擊遊戲專案。
 
+## 開始遊戲
+[點我直接玩](https://peggy110.github.io/game10/)
+
 ## 遊戲玩法
 - 玩家可左右移動
 - 按空白鍵發射子彈
